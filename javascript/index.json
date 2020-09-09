@@ -1,0 +1,143 @@
+// [
+// 	{
+// 		"data": "07/09/2020",
+// 		"feriado": "Independencia do Brasil"
+// 	},
+// 	{
+// 		"data": "12/10/2020",
+// 		"feriado": "Nossa Senhora Aparecida"
+// 	},
+// 	{
+// 		"data": "02/11/2020",
+// 		"feriado": "Finados"
+// 	},
+// 	{
+// 		"data": "15/11/2020",
+// 		"feriado": "Proclamação da Republica"
+// 	},
+// 	{
+// 		"data": "25/12/2020",
+// 		"feriado": "Natal"
+// 	},
+// 	{
+// 		"data": "01/01/2020",
+// 		"feriado": "Confraternização Universal"
+// 	},
+// 	{
+// 		"data": "15/02/2021",
+// 		"feriado": "Carnaval"
+// 	},
+// 	{
+// 		"data": "16/02/2021",
+// 		"feriado": "Carnaval"
+// 	},
+// 	{
+// 		"data": "02/04/2021",
+// 		"feriado": "Paixão de Cristo"
+// 	},
+// 	{
+// 		"data": "21/04/2021",
+// 		"feriado": "Tiradentes"
+// 	},
+// 	{
+// 		"data": "01/05/2021",
+// 		"feriado": "Dia do Trabalho"
+// 	},
+// 	{
+// 		"data": "03/06/2021",
+// 		"feriado": "Corpus Christi"
+// 	},
+// 	{
+// 		"data": "07/09/2021",
+// 		"feriado": "Independencia do Brasil"
+// 	},
+// 	{
+// 		"data": "12/10/2021",
+// 		"feriado": ""
+// 	},
+// 	{
+// 		"data": "12/10/2021",
+// 		"feriado": "Nossa Senhora Aparecida - Padroeira do Brasil"
+// 	},
+// 	{
+// 		"data": "02/11/2021",
+// 		"feriado": "Finados"
+// 	},
+// 	{
+// 		"data": "15/11/2021",
+// 		"feriado": "Proclamação da Republica"
+// 	}
+// ];
+
+{
+  feriados = [
+    {
+      "data": "07/09/2020",
+      "feriado": "Independencia do Brasil"
+    },
+    {
+      "data": "12/10/2020",
+      "feriado": "Nossa Senhora Aparecida"
+    },
+    {
+      "data": "02/11/2020",
+      "feriado": "Finados"
+    },
+    {
+      "data": "15/11/2020",
+      "feriado": "Proclamação da Republica"
+    },
+    {
+      "data": "25/12/2020",
+      "feriado": "Natal"
+    },
+    {
+      "data": "01/01/2020",
+      "feriado": "Confraternização Universal"
+    },
+    {
+      "data": "15/02/2021",
+      "feriado": "Carnaval"
+    },
+    {
+      "data": "16/02/2021",
+      "feriado": "Carnaval"
+    },
+    {
+      "data": "02/04/2021",
+      "feriado": "Paixão de Cristo"
+    },
+    {
+      "data": "21/04/2021",
+      "feriado": "Tiradentes"
+    },
+    {
+      "data": "01/05/2021",
+      "feriado": "Dia do Trabalho"
+    },
+    {
+      "data": "03/06/2021",
+      "feriado": "Corpus Christi"
+    },
+    {
+      "data": "07/09/2021",
+      "feriado": "Independencia do Brasil"
+    },
+    {
+      "data": "12/10/2021",
+      "feriado": ""
+    },
+    {
+      "data": "12/10/2021",
+      "feriado": "Nossa Senhora Aparecida - Padroeira do Brasil"
+    },
+    {
+      "data": "02/11/2021",
+      "feriado": "Finados"
+    },
+    {
+      "data": "15/11/2021",
+      "feriado": "Proclamação da Republica"
+    }
+  ]
+}
